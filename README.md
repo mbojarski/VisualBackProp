@@ -14,7 +14,7 @@ Content:
 * model.t7b - model trained to predict steering wheel angle
 
 # Usage
-`mkdir outputImages'`
+`mkdir outputImages`
 
 `qlua run.lua`
 
