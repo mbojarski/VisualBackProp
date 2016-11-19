@@ -7,14 +7,14 @@ https://arxiv.org/abs/1611.05418
 
 Content:
 
-inputImages - folder with input images
-outputImages - folder for output images
-vis.lua - implementation of VisualBackProp 
-run.lua - loads images, runs visualization method, saves images
-model.t7b - model trained to predict steering wheel angle
+* inputImages - folder with input images
+* outputImages - folder for output images
+* vis.lua - implementation of VisualBackProp 
+* run.lua - loads images, runs visualization method, saves images
+* model.t7b - model trained to predict steering wheel angle
 
 # Running
-'qlua run.lua'
+`qlua run.lua`
 
 Script generates set of 3 images for each input image. Each set contain:
 
