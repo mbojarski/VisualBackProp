@@ -18,6 +18,6 @@ Content:
 
 Script generates set of 3 images for each input image. Each set contain:
 
-1. Input image with visualization mask overlaid in red
-2. Averaged feature maps
-3. Intermediate masks
+* Input image with visualization mask overlaid in red
+* Averaged feature maps
+* Intermediate masks
