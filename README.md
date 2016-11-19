@@ -15,6 +15,7 @@ Content:
 
 # Usage
 `mkdir outputImages'`
+
 `qlua run.lua`
 
 Script generates set of 3 images for each input image. Each set contain:
