@@ -13,7 +13,7 @@ Content:
 * run.lua - loads images, runs visualization method, saves images
 * model.t7b - model trained to predict steering wheel angle
 
-# Running
+# Usage
 `qlua run.lua`
 
 Script generates set of 3 images for each input image. Each set contain:
